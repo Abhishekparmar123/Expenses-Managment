@@ -29,7 +29,7 @@ const dummyData = [
 ];
 
 function App() {
-  const [filteredYear, setFilteredYear] = useState('2020');
+  const [filteredYear, setFilteredYear] = useState('2021');
   const [data, setData] = useState(dummyData);
 
   const filterChangeHandler = selectedYear => {
