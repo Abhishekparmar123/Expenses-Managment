@@ -7,7 +7,7 @@ In this project I have used the react basics to develop it.
 
 
 Some useful commands Are: 
-'''
+```
 npm install || yarn install
 npm start
-'''
+```
